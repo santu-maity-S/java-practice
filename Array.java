@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//assigment 13
 public class Array {
     public static void main(String[] args) {
         int j=1;
